@@ -1,0 +1,5 @@
+Vi vil gerne logge:
+- Thermocouples.
+- Termistor.
+- Termodynamiske værdier.
+

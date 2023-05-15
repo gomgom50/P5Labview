@@ -1,9 +1,8 @@
 # Libraries
 *.lvlibp
-*.llb
+
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -13,5 +12,5 @@
 
 # Metadata
 *.aliases
-*.lvlps
 .cache/
+P5_MAIN_PRJ.lvlps

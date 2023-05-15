@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Coolprop_64bit" Type="Folder" URL="../Coolprop_64bit">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SQL" Type="Folder" URL="../SQL">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -198,6 +201,7 @@
 			<Item Name="ProbeFormatting.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ProbeSupport/ProbeFormatting.vi"/>
 			<Item Name="SIM_CALCS.vi" Type="VI" URL="../SubVIs/SIM_CALCS.vi"/>
 			<Item Name="Stream-a[.](dbl).lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Stream-a[.](dbl).lvlib"/>
+			<Item Name="Stream-dbl.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Stream-dbl.lvlib"/>
 			<Item Name="Stream-t&apos;LogData.ctl&apos;.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Stream-t&apos;LogData.ctl&apos;.lvlib"/>
 			<Item Name="Tag-a[.](dbl).lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-a[.](dbl).lvlib"/>
 			<Item Name="Tag-bool.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-bool.lvlib"/>

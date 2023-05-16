@@ -206,6 +206,7 @@
 			<Item Name="Tag-a[.](dbl).lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-a[.](dbl).lvlib"/>
 			<Item Name="Tag-bool.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-bool.lvlib"/>
 			<Item Name="Tag-dbl.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-dbl.lvlib"/>
+			<Item Name="Tag-t&apos;DataFraCoolProp.ctl&apos;.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-t&apos;DataFraCoolProp.ctl&apos;.lvlib"/>
 			<Item Name="Tag-t&apos;KoelOnOff.ctl&apos;.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-t&apos;KoelOnOff.ctl&apos;.lvlib"/>
 			<Item Name="Tag-t&apos;LogData.ctl&apos;.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-t&apos;LogData.ctl&apos;.lvlib"/>
 			<Item Name="Tag-u16[MaskineON,MaskineSTOP,].lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-u16[MaskineON,MaskineSTOP,].lvlib"/>
